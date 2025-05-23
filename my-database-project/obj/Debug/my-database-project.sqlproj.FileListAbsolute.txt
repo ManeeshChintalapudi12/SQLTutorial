@@ -1,0 +1,11 @@
+C:\SQLTutorial\my-database-project\bin\Debug\my-database-project.dacpac
+C:\SQLTutorial\my-database-project\bin\Debug\my-database-project.deps.json
+C:\SQLTutorial\my-database-project\bin\Debug\my-database-project.dll
+C:\SQLTutorial\my-database-project\bin\Debug\my-database-project.pdb
+C:\SQLTutorial\my-database-project\obj\Debug\my-database-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\SQLTutorial\my-database-project\obj\Debug\Model.xml
+C:\SQLTutorial\my-database-project\obj\Debug\refactor.xml
+C:\SQLTutorial\my-database-project\obj\Debug\postdeploy.sql
+C:\SQLTutorial\my-database-project\obj\Debug\predeploy.sql
+C:\SQLTutorial\my-database-project\obj\Debug\my-database-project.dll
+C:\SQLTutorial\my-database-project\obj\Debug\my-database-project.pdb
